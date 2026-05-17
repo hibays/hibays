@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hibays?tab=followers">
-    <img src="https://img.shields.io/github/followers/hibays?label=Followers%20关注&style=for-the-badge&logo=github&color=blue" alt="Followers" />
-  </a>
   <a href="https://hibays.github.io/">
     <img src="https://img.shields.io/badge/Blog%20博客-hibays.github.io-181717?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" />
   </a>
-  <img src="https://img.shields.io/badge/Location%20位置-China-red?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -43,28 +39,14 @@
 
 ### 📊 GitHub Stats / 统计
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hibays&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibays&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibays&theme=react&hide_border=true" alt="Activity Graph" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Profile Views / 访问量
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibays&theme=radical" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibays&theme=radical" alt="Stats" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hibays&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=hibays&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibays&theme=radical" alt="Repos Per Language" width="48%" />
 </p>
 
 ---
