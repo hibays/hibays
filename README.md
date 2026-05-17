@@ -14,12 +14,12 @@
 
 ### 🧑‍💻 About Me / 关于我
 
-- 🌍 I'm based in **China** / 我居住在**中国**
-- 🌱 I'm currently learning and exploring new things / 我正在学习探索新事物
-- 👀 I'm interested in many things! / 我对许多事物都感兴趣！
-- 💞️ I'm open to collaboration / 欢迎合作
-- 📫 Reach me via [Email](mailto:freestar16@163.com) or [GitHub](https://github.com/hibays) / 通过 [Email](mailto:freestar16@163.com) 或 [GitHub](https://github.com/hibays) 联系我
-- ⚡ Fun fact: I'm young and passionate about coding / 趣闻：我年轻且热爱编程
+- 🌍 I'm based in **China**
+- 🌱 I'm currently learning and exploring new things
+- 👀 I'm interested in many things!
+- 💞️ I'm open to collaboration
+- 📫 Reach me via [Email](mailto:freestar16@163.com) or [GitHub](https://github.com/hibays)
+- ⚡ Fun fact: I'm young and passionate about coding
 
 ---
 
@@ -53,5 +53,5 @@
 
 <p align="center">
   <em>Thanks for visiting! / 感谢访问！</em><br/>
-  <em>Feel free to check out my repositories. / 欢迎查看我的仓库。</em>
+  <em>Feel free to check out or star my repositories. / 欢迎查看或标星我的仓库。</em>
 </p>
