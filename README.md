@@ -40,13 +40,13 @@
 ### 📊 GitHub Stats / 统计
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibays&theme=radical" alt="Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibays&theme=radical" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hibays&theme=dracula" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hibays&theme=dracula" alt="Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibays&theme=radical" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibays&theme=radical" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibays&theme=dracula" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibays&theme=dracula" alt="Productive Time" width="48%" />
 </p>
 
 ---
