@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hibays&theme=radical" alt="Commit Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hibays&theme=radical" alt="Top Languages by Repo" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hibays&theme=radical" alt="Productive Time" width="48%" />
 </p>
 
